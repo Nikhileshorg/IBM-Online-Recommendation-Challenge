@@ -6,4 +6,9 @@ You are expected to build a high performing recommendation engine using any fram
 
 The model created should be readily consumable by the organization and hence you are expected to expose the model as API endpoint using any toolkit of their choice. It will be good to consider using Watson Machine Learning (WML) available through IBM Cloud.
 
+Tools used : 
+Python
+Implicit Feedback System
+ALS
+
  
