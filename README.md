@@ -12,4 +12,7 @@ Implicit Feedback System,
 ALS
 Pyspark
 
+Developed recommended system with Implicit feedback for Organization “Silara Retail” for their online
+retail portal. Recommended customer wise purchases with 86% efficiency. Ranked top 1% in the
+competition conducted by IBM Cloud.
  
