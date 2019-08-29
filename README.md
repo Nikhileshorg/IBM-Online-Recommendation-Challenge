@@ -1,4 +1,6 @@
-Organization “Silara Retail”  is inviting the Developers and Data Scientists to build a high performing recommendation engine for their online retail portal.
+Organization “Silara Retail”  is inviting the Developers and Data Scientists to build a high performing recommendation engine for their online retail portal. 
+
+https://datahack.analyticsvidhya.com/contest/build-a-recommendation-engine-powered-by-ibm-cloud/
 
 They are making their last one year customer transaction (anonymized) data available. For the customers in test data, the participants need to recommend the next items that they are most likely to buy.
 
