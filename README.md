@@ -10,8 +10,8 @@ The model created should be readily consumable by the organization and hence you
 
 Tools used : 
 Python,
-Implicit Feedback System,
-ALS
+Collabrative Filtering,
+ALS,
 Pyspark
 
 Developed recommended system with Implicit feedback for Organization “Silara Retail” for their online
